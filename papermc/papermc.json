@@ -1,5 +1,5 @@
 {
-  "Image": "ghcr.io/hydren-dev/yolks:minecraft_java_21",
+  "Image": "ghcr.io/ma4z-sys/yolks:minecraft_java_21",
   "Cmd": "",
   "Env": [],
   "StartedMessage": "For help, type",
