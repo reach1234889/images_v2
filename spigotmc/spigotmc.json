@@ -1,5 +1,5 @@
 {
-  "Image": "ghcr.io/hydren-dev/yolks:java",
+  "Image": "ghcr.io/ma4z-sys/yolks:java",
   "AltImages": [
     "ghcr.io/hydren-dev/yolks:java"
   ],
